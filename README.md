@@ -1,4 +1,4 @@
-# LSTM-model-code
+# Speech Emotion Recognition
 A working model with 84.6% accuracy.
 Context:
 I'm on a journey to create an emotion classifier from audio and the TESS dataset is one of the 4 key datasets that I was lucky to stumble upon. What's interesting is that this dataset is female only and is of very high quality audio. Most of the other dataset is skewed towards male speakers and thus brings about a slightly imbalance representation. So because of that, this dataset would serve a very good training dataset for the emotion classifier in terms of generalisation (not overfitting)
